@@ -16,7 +16,7 @@ Konfiguration:
    erstellen: @link http://p4r.ch/htpasswd )
 3. Falls benoetigt: Nachricht fuer Passwort-Abfrage aendern.
 
-Weiter Informationen & Vorgehensweisen:
+Weitere Informationen & Vorgehensweisen:
 
 - Zum Debuggen der aktuellen DynDNS-IP kann diese Datei 
   mit update_access.php?get=log aufgerufen werden
